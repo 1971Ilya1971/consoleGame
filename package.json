@@ -1,0 +1,17 @@
+{
+  "name": "consolegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "game": "node game.js --log-file=game-log"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Zahar",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
